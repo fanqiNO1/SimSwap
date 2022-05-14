@@ -140,3 +140,8 @@ checkpoints/
 *.pth
 *.onnx
 wandb/
+
+# Temp files
+netArc.py
+netG.py
+output/result.jpg
